@@ -12,7 +12,5 @@ describe('sound-player', () => {
     const player = new SoundPlayer();
 
     player.playSoundFile('myFile.wav');
-
-    //expect()
   });
 });
